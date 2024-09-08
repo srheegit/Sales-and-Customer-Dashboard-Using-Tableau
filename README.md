@@ -10,7 +10,7 @@ This repository contains interactive dashboards for visualizing sales and custom
 
 The data, which can be found in the data folder, is provided by Baraa Khatib Salkini, an IT solution architect in Germany.
 
-## Features
+## Key Features
 
 ### Sales Dashboard:
 - Visualizes key sales metrics like total sales, profit, and quantity sold.
